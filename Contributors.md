@@ -7,6 +7,7 @@
 - [hzys]
 - [Shrey Jain2](https://github.com/Shrey943)
 - [Shrid Mishra](https://github.com/shridmishra)
+- [Maheboob khan](https://github.com/Maheboobkhan)
 - [Wisdom Okogho](https://github.com/setgram)
 - [Minju Kim](https://github.com/whyNot077)
 - [TechySavant](https://github.com/techy-savant)
